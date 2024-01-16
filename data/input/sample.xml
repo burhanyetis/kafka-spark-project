@@ -1,0 +1,37 @@
+<catalog>
+    <book>
+        <title>Harry Potter and the Sorcerer's Stone</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <price>19.99</price>
+        <date>2022-01-15</date>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <genre>Classic</genre>
+        <price>12.99</price>
+        <date>2021-08-03</date>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <genre>Drama</genre>
+        <price>15.99</price>
+        <date>2020-05-20</date>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <genre>Dystopian</genre>
+        <price>14.99</price>
+        <date>2022-03-10</date>
+    </book>
+    <book>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <genre>Fantasy</genre>
+        <price>18.99</price>
+        <date>2021-11-28</date>
+    </book>
+</catalog>
