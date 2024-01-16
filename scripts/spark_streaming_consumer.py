@@ -36,7 +36,6 @@ try:
         .option("minPartitions", "10") \
         .option("mode", "PERMISSIVE") \
         .option("truncate", False) \
-        .option("newRows", 100000) \
         .load()
 
     # Print DF
