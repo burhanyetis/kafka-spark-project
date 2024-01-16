@@ -30,7 +30,7 @@ try:
     # Read XML data from Kafka using Structured Streaming Kafka XML
     df = spark.readStream.format("kafka") \
         .option("kafka.bootstrap.servers", kafka_server) \
-        .option("subscribe", "nyc-avro-topic") \
+        .option("subscribe", "topic1") \
         .option("startingOffsets", "earliest") \
         .option("failOnDataLoss", "false") \
         .option("minPartitions", "10") \
